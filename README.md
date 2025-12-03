@@ -40,8 +40,3 @@ Each task maintains:
 - `TaskStatus` → `PENDING`, `RUNNING`, `SUCCESS`, `FAILED`, or `CANCELLED`
 - Number of attempts
 - Execution logs
-
----
-
-## 📂 Project Structure
-
