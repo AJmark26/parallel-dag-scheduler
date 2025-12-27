@@ -1,4 +1,4 @@
-# Parallel DAG Scheduler (C++)
+# Parallel DAG Scheduler (C++, System design)
 
 A high-performance **Parallel Job Scheduler** built in C++ using a **DAG (Directed Acyclic Graph)** execution model, a **thread pool**, **retry-based fault tolerance**, and **cascading cancellation** for dependent tasks.
 
